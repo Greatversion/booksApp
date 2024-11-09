@@ -26,12 +26,12 @@ A Flutter application that displays a list of services from an API, with a searc
 
 ## Screenshots
 
- <img src="https://github.com/user-attachments/assets/9f72fc0a-69d3-4a7f-a7e2-77192c45b3ff" alt="Screenshot 1" width="50"/>
+ <img src="https://github.com/user-attachments/assets/9f72fc0a-69d3-4a7f-a7e2-77192c45b3ff" alt="Screenshot 1" width="200"/>
  
-  <img src="https://github.com/user-attachments/assets/e3689b9f-c13e-4d9b-93ac-fc51a1d21446" alt="Screenshot 2" width="50"/>
-  <img src="https://github.com/user-attachments/assets/5e5c5228-96b5-4aad-b369-1c5aea275b61" alt="Screenshot 3" width="50"/>
-  <img src="https://github.com/user-attachments/assets/4483c6dc-0c86-4474-95a4-38dfa2f1013b" alt="Screenshot 4" width="50"/>
-  <img src="https://github.com/user-attachments/assets/e276b07d-efc1-4264-94e9-1cafd03380a7" alt="Screenshot 5" width="50"/>
+  <img src="https://github.com/user-attachments/assets/e3689b9f-c13e-4d9b-93ac-fc51a1d21446" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5e5c5228-96b5-4aad-b369-1c5aea275b61" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4483c6dc-0c86-4474-95a4-38dfa2f1013b" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e276b07d-efc1-4264-94e9-1cafd03380a7" alt="Screenshot 5" width="200"/>
 
 ## Getting Started
 
