@@ -25,12 +25,11 @@ A Flutter application that displays a list of services from an API, with a searc
 - Gradient background and custom UI design for each service card.
 
 ## Screenshots
-![I![IMG-20241110-WA0001](https://github.com/user-attachments/assets/06be277d-277b-4d76-a549-99405943ac35)
-M![IMG-20241110-WA0001](https://github.com/user-attachments/assets/e3689b9f-c13e-4d9b-93ac-fc51a1d21446)
-![IMG-20241110-WA0003](https://github.com/user-attachments/assets/5e5c5228-96b5-4aad-b369-1c5aea275b61)
-![IMG-20241110-WA0002](https://github.com/user-attachments/assets/4483c6dc-0c86-4474-95a4-38dfa2f1013b)
-![IMG-20241110-WA0005](https://github.com/user-attachments/assets/e276b07d-efc1-4264-94e9-1cafd03380a7)
-
+ <img src="https://github.com/user-attachments/assets/06be277d-277b-4d76-a549-99405943ac35" alt="Screenshot 1" width="100"/>
+  <img src="https://github.com/user-attachments/assets/e3689b9f-c13e-4d9b-93ac-fc51a1d21446" alt="Screenshot 2" width="100"/>
+  <img src="https://github.com/user-attachments/assets/5e5c5228-96b5-4aad-b369-1c5aea275b61" alt="Screenshot 3" width="100"/>
+  <img src="https://github.com/user-attachments/assets/4483c6dc-0c86-4474-95a4-38dfa2f1013b" alt="Screenshot 4" width="100"/>
+  <img src="https://github.com/user-attachments/assets/e276b07d-efc1-4264-94e9-1cafd03380a7" alt="Screenshot 5" width="100"/>
 
 ## Getting Started
 
